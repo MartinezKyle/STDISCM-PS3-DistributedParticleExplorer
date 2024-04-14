@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PowerShell-7.2.16-win-x64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vcpkg/downloads/PowerShell-7.2.16-win-x64.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
